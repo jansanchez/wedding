@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Be Bright';
+    src: url('subset-BeBright.eot');
+    src: url('subset-BeBright.eot?#iefix') format('embedded-opentype'),
+        url('subset-BeBright.woff2') format('woff2'),
+        url('subset-BeBright.woff') format('woff'),
+        url('subset-BeBright.ttf') format('truetype'),
+        url('subset-BeBright.svg#BeBright') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
